@@ -17,9 +17,6 @@
 > - База данных PostgreSQL
 > - pyTelegramBot API
 
-[<img src="./images/postgres.jpg" width="160" height="100">]()
-[<img src="./images/telebot.jpg" width="90" height="90">]()
-
 <hr>
 
 - [Начало работы](#start)
@@ -146,7 +143,6 @@ _Алгоритм работы бота следующий:_
 * ER-диаграмма сущностей представлена на схеме ниже.  
 
 [<img src="./images/eng_cards_schema.png">]()
-
 
 <a name="add_words"></a>
 #### 2.4.1. Добавление новых слов
