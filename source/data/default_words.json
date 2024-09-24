@@ -1,0 +1,15 @@
+[
+  {"eng_title": "Car", "rus_title": "Автомобиль"},
+  {"eng_title": "Plane", "rus_title": "Самолет"},
+  {"eng_title": "Train", "rus_title": "Поезд"},
+  {"eng_title": "Bus", "rus_title": "Автобус"},
+  {"eng_title": "Elephant", "rus_title": "Слон"},
+  {"eng_title": "Lion", "rus_title": "Лев"},
+  {"eng_title": "Squirrel", "rus_title": "Белка"},
+  {"eng_title": "Jeans", "rus_title": "Джинсы"},
+  {"eng_title": "Dress", "rus_title": "Платье"},
+  {"eng_title": "Shirt", "rus_title": "Рубашка"},
+  {"eng_title": "Blue", "rus_title": "Синий"},
+  {"eng_title": "Yellow", "rus_title": "Желтый"},
+  {"eng_title": "Purple", "rus_title": "Фиолетовый"}
+]
